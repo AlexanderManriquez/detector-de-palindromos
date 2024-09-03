@@ -68,3 +68,9 @@ form {
     display: block;
     margin: 0 auto;
 }
+
+#result {
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 10px 0 10px;
+}
